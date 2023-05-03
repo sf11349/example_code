@@ -1,0 +1,38 @@
+{% extends "layout.html" %}
+{% block content %}
+
+    <div class="container"> 
+      <h5 class="text-info">Database Job List</h5>   
+      <input class="form-control" id="myInput" type="text" placeholder="Search..">
+      <br>        
+      <table class="table table-hover table-responsive sortable">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>No</th>
+            <th>Submitted</th>
+            <th>Remittance</th>
+            <th>Remittance Ref</th>
+            <th>Comments</th>
+            <th>Active</th>            
+          </tr>
+        </thead>
+        <tbody id="myTable">
+          {% for job in jobs %}
+          <tr>
+            <td><a title= "Click to edit" href={{site_url}}/edit?id={{job.id}}>{{job.id}}</a></td>
+            <td>{{job.job_no}}</td>
+            <td>{{job.submited_date}}</td>
+            <td>{{job.remittance_date}}</td>
+            <td>{{job.remittance_ref}}</td>
+            <td>{{job.comments}}</td>
+            <td>{{job.active}}</td>
+            
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+{% endblock content %}
+

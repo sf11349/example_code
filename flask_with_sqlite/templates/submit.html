@@ -1,0 +1,60 @@
+{% extends "layout.html" %}
+{% block content %}
+
+
+    <h5 class="brown-header">Submit New Job For Today</h5>
+      <form name="data" class="gray-box" action={{site_url}}/new_submit method='post'>
+        <br>
+        <div class="form-group">
+          <label for="job_no">&nbsp;&nbsp;Job Number:&nbsp;</label>
+          <input class="center-text" type="text" name="job_no"  maxlength="7" minlength="7" pattern="[i/I]3[0-9]{5}">
+              <font class = "small-text i-font">&nbsp;(I3xxxxx format please)</font>
+          </input>
+        </div>
+        <div class="form-group">
+          <label for="comments">&nbsp;&nbsp;Comments:&nbsp;&nbsp;&nbsp;</label>
+          <input class="center-text" type="text" name="comments" ></input>
+        </div>
+        <hr>
+        <div class="form-group">
+          <label>
+          &nbsp;&nbsp;<button class="btn-primary" type="submit">Update database</button>
+          </label>  
+        </div>
+      </form>
+     
+    </div>
+
+    <div>
+      <hr>
+      <h5 class="header-brown"> Jobs submitted today </h5>
+      <table border=0 class="table table-responsive">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>No</th>
+            <th>Submitted</th>
+            <th>Remittance</th>
+            <th>Remittance Ref</th>
+            <th>Comments</th>
+            <th>Active</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for job in jobs %}
+          <tr>
+              <td>{{job.id}}</td>
+              <td>{{job.job_no}}</td>
+              <td>{{job.submited_date}}</td>
+              <td>{{job.remittance_date}}</td>
+              <td>{{job.remittance_ref}}</td>
+              <td>{{job.comments}}</td>
+              <td>{{job.active}}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      <hr>
+    </div>
+
+{% endblock content %}

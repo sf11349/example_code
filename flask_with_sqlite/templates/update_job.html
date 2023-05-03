@@ -1,0 +1,36 @@
+{% extends "layout.html" %}
+{% block content %}
+
+    <div class="container"> 
+      <h5 class="brown-header">Job updated</h5>
+      {% for job in jobs %} 
+      <div>
+        <table border=0 class="table table-responsive">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>No</th>
+            <th>Submitted</th>
+            <th>Remittance</th>
+            <th>Remittance Ref</th>
+            <th>Comments</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr  {% if job.active == 0 %} class = "line-through" {% endif %}>
+              <td>{{job.id}}</td>
+              <td>{{job.job_no}}</td>
+              <td>{{job.submited_date}}</td>
+              <td>{{job.remittance_date}}</td>
+              <td>{{job.remittance_ref}}</td>
+              <td>{{job.comments}}</td>
+          </tr>
+        </tbody>
+        </table>
+        <hr>
+      </div>
+
+      {% endfor %}
+    </div>
+
+{% endblock content %}
