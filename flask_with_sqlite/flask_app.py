@@ -8,20 +8,16 @@ DB = 'flask_with_sqlite/jobs.db'
 HOST = '127.0.0.1'
 PORT = 5000
 WEB_SITE_URL = f"http://{HOST}:{PORT}"
-
-app = Flask(__name__)
-
 TD = date.today().strftime("%d-%m-%Y")
 REM_START = 'I3'
 REM_LEN=7
-
 AGENT = ''
 TESTED_AGENTS={'iPhone':'mobile',
                'Macintosh':'mobile',
                'Windows NT':'laptop'  
 }          
 
-
+app = Flask(__name__)
 
 
 def get_all_jobs():
