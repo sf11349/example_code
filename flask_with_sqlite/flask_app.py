@@ -4,8 +4,10 @@ from jobslist import JobsList
 from datetime import date, timedelta
 
 #config
-DB = 'jobs.db'
-WEB_SITE_URL = 'http://127.0.0.1:5000'
+DB = 'flask_with_sqlite/jobs.db'
+HOST = '127.0.0.1'
+PORT = 5000
+WEB_SITE_URL = f"http://{HOST}:{PORT}"
 
 app = Flask(__name__)
 
@@ -354,4 +356,5 @@ def view_db():
     return render_template('view_db.html', jobs=get_all_jobs_view_db(), site_url=WEB_SITE_URL)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host = HOST, port = PORT, debug=True)
+    #app.run(debug=True)

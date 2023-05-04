@@ -2,7 +2,7 @@ import sqlite3 as sql
 from jobslist import JobsList
 from datetime import date, timedelta
 
-DB = 'jobs.db'
+DB = 'flask_with_sqlite/jobs.db'
 
 
 
