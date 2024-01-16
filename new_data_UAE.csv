@@ -1,0 +1,52 @@
+,Country,CAT,DESC,Amount_text,Currency,Amount,exchange,pound_equav
+0,UAE,Food,Basic lunchtime menu (including a drink) in the business district,Dirham 41,Dirham,41,0.2154735,8.83
+1,UAE,Food,Combo meal in fast food restaurant (big mac meal or similar),Dirham 32,Dirham,32,0.2154735,6.90
+2,UAE,Food,500 gr (1 lb.) of boneless chicken breast,Dirham 15,Dirham,15,0.2154735,3.23
+3,UAE,Food,1 liter (1 qt.) of whole fat milk,Dirham 7,Dirham,7,0.2154735,1.51
+4,UAE,Food,"12 eggs, large",Dirham 15,Dirham,15,0.2154735,3.23
+5,UAE,Food,1 kg (2 lb.) of tomatoes,Dirham 5.10,Dirham,5.1,0.2154735,1.10
+6,UAE,Food,500 gr (16 oz.) of local cheese,Dirham 22,Dirham,22,0.2154735,4.74
+7,UAE,Food,1 kg (2 lb.) of apples,Dirham 8,Dirham,8,0.2154735,1.72
+8,UAE,Food,1 kg (2 lb.) of potatoes,Dirham 3.62,Dirham,3.62,0.2154735,0.78
+9,UAE,Food,0.5 l (16 oz) domestic beer in the supermarket,Dirham 10,Dirham,10,0.2154735,2.15
+10,UAE,Food,"1 bottle of red table wine, good quality",Dirham 65,Dirham,65,0.2154735,14.01
+11,UAE,Food,2 liters of coca-cola,Dirham 8,Dirham,8,0.2154735,1.72
+12,UAE,Food,Bread for 2 people for 1 day,Dirham 4.74,Dirham,4.74,0.2154735,1.02
+14,UAE,Housing,Monthly rent for 85 m2 (900 sqft) furnished accommodation in expensive area,"Dirham 9,958",Dirham,"9,958",0.2154735,2145.69
+15,UAE,Housing,Monthly rent for 85 m2 (900 sqft) furnished accommodation in normal area,"Dirham 6,747",Dirham,"6,747",0.2154735,1453.80
+16,UAE,Housing,"Utilities 1 month (heating, electricity, gas ...) for 2 people in 85m2 flat",Dirham 835,Dirham,835,0.2154735,179.92
+17,UAE,Housing,Monthly rent for a 45 m2 (480 sqft) furnished studio in expensive area,"Dirham 5,810",Dirham,"5,810",0.2154735,1251.90
+18,UAE,Housing,Monthly rent for a 45 m2 (480 sqft) furnished studio in normal area,"Dirham 3,976",Dirham,"3,976",0.2154735,856.72
+19,UAE,Housing,"Utilities 1 month (heating, electricity, gas ...) for 1 person in 45 m2 (480 sqft) studio",Dirham 588,Dirham,588,0.2154735,126.70
+20,UAE,Housing,Internet 8 mbps (1 month),Dirham 327,Dirham,327,0.2154735,70.46
+21,UAE,Housing,40” flat screen tv,Dirham 878,Dirham,878,0.2154735,189.19
+22,UAE,Housing,"Microwave 800/900 watt (bosch, panasonic, lg, sharp, or equivalent brands)",Dirham 342,Dirham,342,0.2154735,73.69
+23,UAE,Housing,Laundry detergent (3 l. ~ 100 oz.),Dirham 45,Dirham,45,0.2154735,9.70
+24,UAE,Housing,Hourly rate for cleaning help,Dirham 37,Dirham,37,0.2154735,7.97
+27,UAE,Clothes,1 pair of jeans (levis 501 or similar),Dirham 203,Dirham,203,0.2154735,43.74
+28,UAE,Clothes,"1 summer dress in a high street store (zara, h&m or similar retailers)",Dirham 185,Dirham,185,0.2154735,39.86
+29,UAE,Clothes,"1 pair of sport shoes (nike, adidas, or equivalent brands)",Dirham 330,Dirham,330,0.2154735,71.11
+30,UAE,Clothes,1 pair of men’s leather business shoes,Dirham 340,Dirham,340,0.2154735,73.26
+32,UAE,Transportation,"Volkswagen golf 1.4 tsi 150 cv (or equivalent), with no extras, new","Dirham 96,595",Dirham,"96,595",0.2154735,20813.66
+33,UAE,Transportation,1 liter (1/4 gallon) of gas,Dirham 2.99,Dirham,2.99,0.2154735,0.64
+34,UAE,Transportation,Monthly ticket public transport,Dirham 134,Dirham,134,0.2154735,28.87
+36,UAE,Personal Care,"Cold medicine for 6 days (tylenol, frenadol, coldrex, or equivalent brands)",Dirham 13,Dirham,13,0.2154735,2.80
+37,UAE,Personal Care,1 box of antibiotics (12 doses),Dirham 30,Dirham,30,0.2154735,6.46
+38,UAE,Personal Care,Short visit to private doctor (15 minutes),Dirham 272,Dirham,272,0.2154735,58.61
+39,UAE,Personal Care,"1 box of 32 tampons (tampax, ob, ...)",Dirham 28,Dirham,28,0.2154735,6.03
+40,UAE,Personal Care,"Deodorant, roll-on (50ml ~ 1.5 oz.)",Dirham 17,Dirham,17,0.2154735,3.66
+41,UAE,Personal Care,Hair shampoo 2-in-1 (400 ml ~ 12 oz.),Dirham 23,Dirham,23,0.2154735,4.96
+42,UAE,Personal Care,4 rolls of toilet paper,Dirham 13,Dirham,13,0.2154735,2.80
+43,UAE,Personal Care,Tube of toothpaste,Dirham 12,Dirham,12,0.2154735,2.59
+44,UAE,Personal Care,Standard men's haircut in expat area of the city,Dirham 43,Dirham,43,0.2154735,9.27
+46,UAE,Entertainment,Basic dinner out for two in neighborhood pub,Dirham 169,Dirham,169,0.2154735,36.42
+47,UAE,Entertainment,2 tickets to the movies,Dirham 93,Dirham,93,0.2154735,20.04
+48,UAE,Entertainment,2 tickets to the theater (best available seats),Dirham 320,Dirham,320,0.2154735,68.95
+49,UAE,Entertainment,"Dinner for two at an italian restaurant in the expat area including appetisers, main course, wine and dessert",Dirham 331,Dirham,331,0.2154735,71.32
+50,UAE,Entertainment,1 cocktail drink in downtown club,Dirham 76,Dirham,76,0.2154735,16.38
+51,UAE,Entertainment,Cappuccino in expat area of the city,Dirham 21,Dirham,21,0.2154735,4.52
+52,UAE,Entertainment,1 beer in neighbourhood pub (500ml or 1pt.) ,Dirham 41,Dirham,41,0.2154735,8.83
+53,UAE,Entertainment,Ipad wi-fi 128gb,"Dirham 1,944",Dirham,"1,944",0.2154735,418.88
+54,UAE,Entertainment,1 min. of prepaid mobile tariff (no discounts or plans),Dirham 0.69,Dirham,0.69,0.2154735,0.15
+55,UAE,Entertainment,1 month of gym membership in business district,Dirham 260,Dirham,260,0.2154735,56.02
+56,UAE,Entertainment,1 package of marlboro cigarettes,Dirham 19,Dirham,19,0.2154735,4.09

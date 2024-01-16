@@ -1,0 +1,52 @@
+,Country,CAT,DESC,Amount_text,Currency,Amount,Exchange,pound_equev
+0,OMAN,Food,Basic lunchtime menu (including a drink) in the business district,﷼‎ 7,Reyal,7,2.0555183,14.39
+1,OMAN,Food,Combo meal in fast food restaurant (big mac meal or similar),﷼‎ 3.633,Reyal,3.633,2.0555183,7.47
+2,OMAN,Food,500 gr (1 lb.) of boneless chicken breast,﷼‎ 2.000,Reyal,2,2.0555183,4.11
+3,OMAN,Food,1 liter (1 qt.) of whole fat milk,﷼‎ 1.048,Reyal,1.048,2.0555183,2.15
+4,OMAN,Food,"12 eggs, large",﷼‎ 1.000,Reyal,1,2.0555183,2.06
+5,OMAN,Food,1 kg (2 lb.) of tomatoes,﷼‎ 1.532,Reyal,1.532,2.0555183,3.15
+6,OMAN,Food,500 gr (16 oz.) of local cheese,﷼‎ 0.900,Reyal,0.9,2.0555183,1.85
+7,OMAN,Food,1 kg (2 lb.) of apples,﷼‎ 1.336,Reyal,1.336,2.0555183,2.75
+8,OMAN,Food,1 kg (2 lb.) of potatoes,﷼‎ 0.476,Reyal,0.476,2.0555183,0.98
+9,OMAN,Food,0.5 l (16 oz) domestic beer in the supermarket,﷼‎ 1.878,Reyal,1.878,2.0555183,3.86
+10,OMAN,Food,"1 bottle of red table wine, good quality",﷼‎ 5.731,Reyal,5.731,2.0555183,11.78
+11,OMAN,Food,2 liters of coca-cola,﷼‎ 1.000,Reyal,1,2.0555183,2.06
+12,OMAN,Food,Bread for 2 people for 1 day,﷼‎ 1.000,Reyal,1,2.0555183,2.06
+14,OMAN,Housing,Monthly rent for 85 m2 (900 sqft) furnished accommodation in expensive area,﷼‎ 574,Reyal,574,2.0555183,1179.87
+15,OMAN,Housing,Monthly rent for 85 m2 (900 sqft) furnished accommodation in normal area,﷼‎ 394,Reyal,394,2.0555183,809.87
+16,OMAN,Housing,"Utilities 1 month (heating, electricity, gas ...) for 2 people in 85m2 flat",﷼‎ 72,Reyal,72,2.0555183,148.00
+17,OMAN,Housing,Monthly rent for a 45 m2 (480 sqft) furnished studio in expensive area,﷼‎ 408,Reyal,408,2.0555183,838.65
+18,OMAN,Housing,Monthly rent for a 45 m2 (480 sqft) furnished studio in normal area,﷼‎ 168,Reyal,168,2.0555183,345.33
+19,OMAN,Housing,"Utilities 1 month (heating, electricity, gas ...) for 1 person in 45 m2 (480 sqft) studio",﷼‎ 50,Reyal,50,2.0555183,102.78
+20,OMAN,Housing,Internet 8 mbps (1 month),﷼‎ 21,Reyal,21,2.0555183,43.17
+21,OMAN,Housing,40” flat screen tv,﷼‎ 92,Reyal,92,2.0555183,189.11
+22,OMAN,Housing,"Microwave 800/900 watt (bosch, panasonic, lg, sharp, or equivalent brands)",﷼‎ 43,Reyal,43,2.0555183,88.39
+23,OMAN,Housing,Laundry detergent (3 l. ~ 100 oz.),﷼‎ 3.948,Reyal,3.948,2.0555183,8.12
+24,OMAN,Housing,Hourly rate for cleaning help,﷼‎ 14,Reyal,14,2.0555183,28.78
+27,OMAN,Clothes,1 pair of jeans (levis 501 or similar),﷼‎ 15,Reyal,15,2.0555183,30.83
+28,OMAN,Clothes,"1 summer dress in a high street store (zara, h&m or similar retailers)",﷼‎ 15,Reyal,15,2.0555183,30.83
+29,OMAN,Clothes,"1 pair of sport shoes (nike, adidas, or equivalent brands)",﷼‎ 40,Reyal,40,2.0555183,82.22
+30,OMAN,Clothes,1 pair of men’s leather business shoes,﷼‎ 15,Reyal,15,2.0555183,30.83
+32,OMAN,Transportation,"Volkswagen golf 1.4 tsi 150 cv (or equivalent), with no extras, new","﷼‎ 8,064",Reyal,"8,064",2.0555183,16575.70
+33,OMAN,Transportation,1 liter (1/4 gallon) of gas,﷼‎ 0.318,Reyal,0.318,2.0555183,0.65
+34,OMAN,Transportation,Monthly ticket public transport,﷼‎ 25,Reyal,25,2.0555183,51.39
+36,OMAN,Personal Care,"Cold medicine for 6 days (tylenol, frenadol, coldrex, or equivalent brands)",﷼‎ 2.865,Reyal,2.865,2.0555183,5.89
+37,OMAN,Personal Care,1 box of antibiotics (12 doses),﷼‎ 2.000,Reyal,2,2.0555183,4.11
+38,OMAN,Personal Care,Short visit to private doctor (15 minutes),﷼‎ 12,Reyal,12,2.0555183,24.67
+39,OMAN,Personal Care,"1 box of 32 tampons (tampax, ob, ...)",﷼‎ 3.451,Reyal,3.451,2.0555183,7.09
+40,OMAN,Personal Care,"Deodorant, roll-on (50ml ~ 1.5 oz.)",﷼‎ 2.474,Reyal,2.474,2.0555183,5.09
+41,OMAN,Personal Care,Hair shampoo 2-in-1 (400 ml ~ 12 oz.),﷼‎ 2.000,Reyal,2,2.0555183,4.11
+42,OMAN,Personal Care,4 rolls of toilet paper,﷼‎ 1.289,Reyal,1.289,2.0555183,2.65
+43,OMAN,Personal Care,Tube of toothpaste,﷼‎ 2.000,Reyal,2,2.0555183,4.11
+44,OMAN,Personal Care,Standard men's haircut in expat area of the city,﷼‎ 4.000,Reyal,4,2.0555183,8.22
+46,OMAN,Entertainment,Basic dinner out for two in neighborhood pub,﷼‎ 26,Reyal,26,2.0555183,53.44
+47,OMAN,Entertainment,2 tickets to the movies,﷼‎ 6,Reyal,6,2.0555183,12.33
+48,OMAN,Entertainment,2 tickets to the theater (best available seats),﷼‎ 25,Reyal,25,2.0555183,51.39
+49,OMAN,Entertainment,"Dinner for two at an italian restaurant in the expat area including appetisers, main course, wine and dessert",﷼‎ 21,Reyal,21,2.0555183,43.17
+50,OMAN,Entertainment,1 cocktail drink in downtown club,﷼‎ 8,Reyal,8,2.0555183,16.44
+51,OMAN,Entertainment,Cappuccino in expat area of the city,﷼‎ 3.986,Reyal,3.986,2.0555183,8.19
+52,OMAN,Entertainment,1 beer in neighbourhood pub (500ml or 1pt.) ,﷼‎ 2.391,Reyal,2.391,2.0555183,4.91
+53,OMAN,Entertainment,Ipad wi-fi 128gb,﷼‎ 30,Reyal,30,2.0555183,61.67
+54,OMAN,Entertainment,1 min. of prepaid mobile tariff (no discounts or plans),﷼‎ 0.060,Reyal,0.06,2.0555183,0.12
+55,OMAN,Entertainment,1 month of gym membership in business district,﷼‎ 19,Reyal,19,2.0555183,39.05
+56,OMAN,Entertainment,1 package of marlboro cigarettes,﷼‎ 1.563,Reyal,1.563,2.0555183,3.21

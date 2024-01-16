@@ -1,0 +1,550 @@
+<table class="comparison single-city">
+<tbody>
+<tr class="categoryHeader">
+<th colspan="2">Food</th>
+<th class="categoryEditLink">
+</th>
+</tr>
+<tr>
+<td class="icon item-icon-sprite item-icon-sprite-daily-menu"></td>
+<td class="item-name">
+                                        Basic lunchtime menu (including a drink) in the business district
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 5.024
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-big-mac"></td>
+<td class="item-name">
+                                        Combo meal in fast food restaurant (big mac meal or similar)
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 1.980
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-chicken"></td>
+<td class="item-name">
+                                        500 gr (1 lb.) of boneless chicken breast
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 1.562
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-milk"></td>
+<td class="item-name">
+                                        1 liter (1 qt.) of whole fat milk
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 0.511
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-eggs"></td>
+<td class="item-name">
+                                        12 eggs, large
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 1.214
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-tomatoes"></td>
+<td class="item-name">
+                                        1 kg (2 lb.) of tomatoes
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 0.592
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-cheese"></td>
+<td class="item-name">
+                                        500 gr (16 oz.) of local cheese
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 2.236
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-apples"></td>
+<td class="item-name">
+                                        1 kg (2 lb.) of apples
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 0.871
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-potatoes"></td>
+<td class="item-name">
+                                        1 kg (2 lb.) of potatoes
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 0.457
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-supermarket-beer"></td>
+<td class="item-name">
+                                        0.5 l (16 oz) domestic beer in the supermarket
+                                  </td>
+<td class="price city-1">
+                  
+                      -
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-wine"></td>
+<td class="item-name">
+                                        1 bottle of red table wine, good quality
+                                  </td>
+<td class="price city-1">
+                  
+                      -
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-coke"></td>
+<td class="item-name">
+                                        2 liters of coca-cola
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 0.362
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-bread"></td>
+<td class="item-name">
+                                        Bread for 2 people for 1 day
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 0.172
+                  
+                </td>
+</tr><tr class="categoryHeader">
+<th colspan="2">Housing</th>
+<th class="categoryEditLink">
+</th>
+</tr>
+<tr>
+<td class="icon item-icon-sprite item-icon-sprite-rent"></td>
+<td class="item-name">
+                                        Monthly rent for 85 m2 (900 sqft) furnished accommodation in expensive area
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 405
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-rent-normal-area"></td>
+<td class="item-name">
+                                        Monthly rent for 85 m2 (900 sqft) furnished accommodation in normal area
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 422
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-utilities"></td>
+<td class="item-name">
+                                        Utilities 1 month (heating, electricity, gas ...) for 2 people in 85m2 flat
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 306
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-studio-rent"></td>
+<td class="item-name">
+                                        Monthly rent for a 45 m2 (480 sqft) furnished studio in expensive area
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 399
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-studio-rent-normal-area"></td>
+<td class="item-name">
+                                        Monthly rent for a 45 m2 (480 sqft) furnished studio in normal area
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 344
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-utilities-studio"></td>
+<td class="item-name">
+                                        Utilities 1 month (heating, electricity, gas ...) for 1 person in 45 m2 (480 sqft) studio
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 284
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-internet"></td>
+<td class="item-name">
+                                        Internet 8 mbps (1 month)
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 10
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-tv"></td>
+<td class="item-name">
+                                        40” flat screen tv
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 82
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-microwave"></td>
+<td class="item-name">
+                                        Microwave 800/900 watt (bosch, panasonic, lg, sharp, or equivalent brands)
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 24
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-detergent"></td>
+<td class="item-name">
+                                        Laundry detergent (3 l. ~ 100 oz.)
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 3.128
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-cleaning-help"></td>
+<td class="item-name">
+                                        Hourly rate for cleaning help
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 2.897
+                  
+                </td>
+</tr><tr>
+<td colspan="4">
+<ins class="adsbygoogle" data-ad-client="ca-pub-9451884763512369" data-ad-format="auto" data-full-width-responsive="true" style="display:block"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</td>
+</tr>
+<tr class="categoryHeader">
+<th colspan="2">Clothes</th>
+<th class="categoryEditLink">
+</th>
+</tr>
+<tr>
+<td class="icon item-icon-sprite item-icon-sprite-jeans"></td>
+<td class="item-name">
+                                        1 pair of jeans (levis 501 or similar)
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 20
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-dress"></td>
+<td class="item-name">
+                                        1 summer dress in a high street store (zara, h&amp;m or similar retailers)
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 23
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-adidas"></td>
+<td class="item-name">
+                                        1 pair of sport shoes (nike, adidas, or equivalent brands)
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 29
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-shoes"></td>
+<td class="item-name">
+                                        1 pair of men’s leather business shoes
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 28
+                  
+                </td>
+</tr><tr class="categoryHeader">
+<th colspan="2">Transportation</th>
+<th class="categoryEditLink">
+</th>
+</tr>
+<tr>
+<td class="icon item-icon-sprite item-icon-sprite-car"></td>
+<td class="item-name">
+                                        Volkswagen golf 1.4 tsi 150 cv (or equivalent), with no extras, new
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 12,421
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-gas"></td>
+<td class="item-name">
+                                        1 liter (1/4 gallon) of gas
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 0.116
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-public-transport"></td>
+<td class="item-name">
+                                        Monthly ticket public transport
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 15
+                  
+                </td>
+</tr><tr class="categoryHeader">
+<th colspan="2">Personal Care</th>
+<th class="categoryEditLink">
+</th>
+</tr>
+<tr>
+<td class="icon item-icon-sprite item-icon-sprite-frenadol"></td>
+<td class="item-name">
+                                        Cold medicine for 6 days (tylenol, frenadol, coldrex, or equivalent brands)
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 1.873
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-antibiotics"></td>
+<td class="item-name">
+                                        1 box of antibiotics (12 doses)
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 4.032
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-doctor"></td>
+<td class="item-name">
+                                        Short visit to private doctor (15 minutes)
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 29
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-tampax"></td>
+<td class="item-name">
+                                        1 box of 32 tampons (tampax, ob, ...)
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 2.011
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-deodorant"></td>
+<td class="item-name">
+                                        Deodorant, roll-on (50ml ~ 1.5 oz.)
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 2.742
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-shampoo"></td>
+<td class="item-name">
+                                        Hair shampoo 2-in-1 (400 ml ~ 12 oz.)
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 2.532
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-toilet-paper"></td>
+<td class="item-name">
+                                        4 rolls of toilet paper
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 0.607
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-toothpaste"></td>
+<td class="item-name">
+                                        Tube of toothpaste
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 0.520
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-men-haircut"></td>
+<td class="item-name">
+                                        Standard men's haircut in expat area of the city
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 4.735
+                  
+                </td>
+</tr><tr class="categoryHeader">
+<th colspan="2">Entertainment</th>
+<th class="categoryEditLink">
+</th>
+</tr>
+<tr>
+<td class="icon item-icon-sprite item-icon-sprite-pub"></td>
+<td class="item-name">
+                                        Basic dinner out for two in neighborhood pub
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 18
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-movies"></td>
+<td class="item-name">
+                                        2 tickets to the movies
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 7
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-theater"></td>
+<td class="item-name">
+                                        2 tickets to the theater (best available seats)
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 20
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-dinner"></td>
+<td class="item-name">
+                                        Dinner for two at an italian restaurant in the expat area including appetisers, main course, wine and dessert
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 31
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-cocktail"></td>
+<td class="item-name">
+                                        1 cocktail drink in downtown club
+                                  </td>
+<td class="price city-1">
+                  
+                      -
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-capuccino"></td>
+<td class="item-name">
+                                        Cappuccino in expat area of the city
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 1.886
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-beer"></td>
+<td class="item-name">
+                                        1 beer in neighbourhood pub (500ml or 1pt.) 
+                                  </td>
+<td class="price city-1">
+                  
+                      -
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-ipad"></td>
+<td class="item-name">
+                                        Ipad wi-fi 128gb
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 135
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-mobile"></td>
+<td class="item-name">
+                                        1 min. of prepaid mobile tariff (no discounts or plans)
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 0.041
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-gym"></td>
+<td class="item-name">
+                                        1 month of gym membership in business district
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 19
+                  
+                </td>
+</tr><tr>
+<td class="icon item-icon-sprite item-icon-sprite-cigarettes"></td>
+<td class="item-name">
+                                        1 package of marlboro cigarettes
+                                  </td>
+<td class="price city-1">
+                  
+                      Dinar 5.817
+                  
+                </td>
+</tr></tbody>
+</table>

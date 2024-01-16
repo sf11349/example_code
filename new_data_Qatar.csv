@@ -1,0 +1,52 @@
+,Country,CAT,DESC,Amount_text,Currency,Amount,Exchange,pound_equv
+0,Qatar,Food,Basic lunchtime menu (including a drink) in the business district,32 ﷼‎,Rial,32,0.21741107,6.96
+1,Qatar,Food,Combo meal in fast food restaurant (big mac meal or similar),25 ﷼‎,Rial,25,0.21741107,5.44
+2,Qatar,Food,500 gr (1 lb.) of boneless chicken breast,21 ﷼‎,Rial,21,0.21741107,4.57
+3,Qatar,Food,1 liter (1 qt.) of whole fat milk,7 ﷼‎,Rial,7,0.21741107,1.52
+4,Qatar,Food,"12 eggs, large",12 ﷼‎,Rial,12,0.21741107,2.61
+5,Qatar,Food,1 kg (2 lb.) of tomatoes,4.85 ﷼‎,Rial,4.85,0.21741107,1.05
+6,Qatar,Food,500 gr (16 oz.) of local cheese,20 ﷼‎,Rial,20,0.21741107,4.35
+7,Qatar,Food,1 kg (2 lb.) of apples,7 ﷼‎,Rial,7,0.21741107,1.52
+8,Qatar,Food,1 kg (2 lb.) of potatoes,3.96 ﷼‎,Rial,3.96,0.21741107,0.86
+9,Qatar,Food,0.5 l (16 oz) domestic beer in the supermarket,7 ﷼‎,Rial,7,0.21741107,1.52
+10,Qatar,Food,"1 bottle of red table wine, good quality",92 ﷼‎,Rial,92,0.21741107,20.00
+11,Qatar,Food,2 liters of coca-cola,7 ﷼‎,Rial,7,0.21741107,1.52
+12,Qatar,Food,Bread for 2 people for 1 day,5.28 ﷼‎,Rial,5.28,0.21741107,1.15
+14,Qatar,Housing,Monthly rent for 85 m2 (900 sqft) furnished accommodation in expensive area,"12,174 ﷼‎",Rial,"12,174",0.21741107,2646.76
+15,Qatar,Housing,Monthly rent for 85 m2 (900 sqft) furnished accommodation in normal area,"8,090 ﷼‎",Rial,"8,090",0.21741107,1758.86
+16,Qatar,Housing,"Utilities 1 month (heating, electricity, gas ...) for 2 people in 85m2 flat","1,063 ﷼‎",Rial,"1,063",0.21741107,231.11
+17,Qatar,Housing,Monthly rent for a 45 m2 (480 sqft) furnished studio in expensive area,"6,647 ﷼‎",Rial,"6,647",0.21741107,1445.13
+18,Qatar,Housing,Monthly rent for a 45 m2 (480 sqft) furnished studio in normal area,"4,084 ﷼‎",Rial,"4,084",0.21741107,887.91
+19,Qatar,Housing,"Utilities 1 month (heating, electricity, gas ...) for 1 person in 45 m2 (480 sqft) studio",368 ﷼‎,Rial,368,0.21741107,80.01
+20,Qatar,Housing,Internet 8 mbps (1 month),323 ﷼‎,Rial,323,0.21741107,70.22
+21,Qatar,Housing,40” flat screen tv,"2,301 ﷼‎",Rial,"2,301",0.21741107,500.26
+22,Qatar,Housing,"Microwave 800/900 watt (bosch, panasonic, lg, sharp, or equivalent brands)",421 ﷼‎,Rial,421,0.21741107,91.53
+23,Qatar,Housing,Laundry detergent (3 l. ~ 100 oz.),34 ﷼‎,Rial,34,0.21741107,7.39
+24,Qatar,Housing,Hourly rate for cleaning help,46 ﷼‎,Rial,46,0.21741107,10.00
+27,Qatar,Clothes,1 pair of jeans (levis 501 or similar),237 ﷼‎,Rial,237,0.21741107,51.53
+28,Qatar,Clothes,"1 summer dress in a high street store (zara, h&m or similar retailers)",185 ﷼‎,Rial,185,0.21741107,40.22
+29,Qatar,Clothes,"1 pair of sport shoes (nike, adidas, or equivalent brands)",335 ﷼‎,Rial,335,0.21741107,72.83
+30,Qatar,Clothes,1 pair of men’s leather business shoes,348 ﷼‎,Rial,348,0.21741107,75.66
+32,Qatar,Transportation,"Volkswagen golf 1.4 tsi 150 cv (or equivalent), with no extras, new","85,534 ﷼‎",Rial,"85,534",0.21741107,18596.04
+33,Qatar,Transportation,1 liter (1/4 gallon) of gas,2.12 ﷼‎,Rial,2.12,0.21741107,0.46
+34,Qatar,Transportation,Monthly ticket public transport,141 ﷼‎,Rial,141,0.21741107,30.65
+36,Qatar,Personal Care,"Cold medicine for 6 days (tylenol, frenadol, coldrex, or equivalent brands)",18 ﷼‎,Rial,18,0.21741107,3.91
+37,Qatar,Personal Care,1 box of antibiotics (12 doses),65 ﷼‎,Rial,65,0.21741107,14.13
+38,Qatar,Personal Care,Short visit to private doctor (15 minutes),100 ﷼‎,Rial,100,0.21741107,21.74
+39,Qatar,Personal Care,"1 box of 32 tampons (tampax, ob, ...)",20 ﷼‎,Rial,20,0.21741107,4.35
+40,Qatar,Personal Care,"Deodorant, roll-on (50ml ~ 1.5 oz.)",20 ﷼‎,Rial,20,0.21741107,4.35
+41,Qatar,Personal Care,Hair shampoo 2-in-1 (400 ml ~ 12 oz.),30 ﷼‎,Rial,30,0.21741107,6.52
+42,Qatar,Personal Care,4 rolls of toilet paper,20 ﷼‎,Rial,20,0.21741107,4.35
+43,Qatar,Personal Care,Tube of toothpaste,5.41 ﷼‎,Rial,5.41,0.21741107,1.18
+44,Qatar,Personal Care,Standard men's haircut in expat area of the city,22 ﷼‎,Rial,22,0.21741107,4.78
+46,Qatar,Entertainment,Basic dinner out for two in neighborhood pub,292 ﷼‎,Rial,292,0.21741107,63.48
+47,Qatar,Entertainment,2 tickets to the movies,88 ﷼‎,Rial,88,0.21741107,19.13
+48,Qatar,Entertainment,2 tickets to the theater (best available seats),105 ﷼‎,Rial,105,0.21741107,22.83
+49,Qatar,Entertainment,"Dinner for two at an italian restaurant in the expat area including appetisers, main course, wine and dessert",207 ﷼‎,Rial,207,0.21741107,45.00
+50,Qatar,Entertainment,1 cocktail drink in downtown club,110 ﷼‎,Rial,110,0.21741107,23.92
+51,Qatar,Entertainment,Cappuccino in expat area of the city,20 ﷼‎,Rial,20,0.21741107,4.35
+52,Qatar,Entertainment,1 beer in neighbourhood pub (500ml or 1pt.) ,44 ﷼‎,Rial,44,0.21741107,9.57
+53,Qatar,Entertainment,Ipad wi-fi 128gb,"1,699 ﷼‎",Rial,"1,699",0.21741107,369.38
+54,Qatar,Entertainment,1 min. of prepaid mobile tariff (no discounts or plans),1.00 ﷼‎,Rial,1.00,0.21741107,0.22
+55,Qatar,Entertainment,1 month of gym membership in business district,430 ﷼‎,Rial,430,0.21741107,93.49
+56,Qatar,Entertainment,1 package of marlboro cigarettes,21 ﷼‎,Rial,21,0.21741107,4.57

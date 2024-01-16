@@ -1,0 +1,52 @@
+,Country,CAT,DESC,Amount_text,Currency,Amount,Exchange,pound_equv
+0,KUWAIT,Food,Basic lunchtime menu (including a drink) in the business district,Dinar 5.024,Dinar,5.024,0.389031,1.95
+1,KUWAIT,Food,Combo meal in fast food restaurant (big mac meal or similar),Dinar 1.980,Dinar,1.98,0.389031,0.77
+2,KUWAIT,Food,500 gr (1 lb.) of boneless chicken breast,Dinar 1.562,Dinar,1.562,0.389031,0.61
+3,KUWAIT,Food,1 liter (1 qt.) of whole fat milk,Dinar 0.511,Dinar,0.511,0.389031,0.20
+4,KUWAIT,Food,"12 eggs, large",Dinar 1.214,Dinar,1.214,0.389031,0.47
+5,KUWAIT,Food,1 kg (2 lb.) of tomatoes,Dinar 0.592,Dinar,0.592,0.389031,0.23
+6,KUWAIT,Food,500 gr (16 oz.) of local cheese,Dinar 2.236,Dinar,2.236,0.389031,0.87
+7,KUWAIT,Food,1 kg (2 lb.) of apples,Dinar 0.871,Dinar,0.871,0.389031,0.34
+8,KUWAIT,Food,1 kg (2 lb.) of potatoes,Dinar 0.457,Dinar,0.457,0.389031,0.18
+9,KUWAIT,Food,0.5 l (16 oz) domestic beer in the supermarket,-,Dinar,,0.389031,0.00
+10,KUWAIT,Food,"1 bottle of red table wine, good quality",-,Dinar,,0.389031,0.00
+11,KUWAIT,Food,2 liters of coca-cola,Dinar 0.362,Dinar,0.362,0.389031,0.14
+12,KUWAIT,Food,Bread for 2 people for 1 day,Dinar 0.172,Dinar,0.172,0.389031,0.07
+14,KUWAIT,Housing,Monthly rent for 85 m2 (900 sqft) furnished accommodation in expensive area,Dinar 405,Dinar,405,0.389031,157.56
+15,KUWAIT,Housing,Monthly rent for 85 m2 (900 sqft) furnished accommodation in normal area,Dinar 422,Dinar,422,0.389031,164.17
+16,KUWAIT,Housing,"Utilities 1 month (heating, electricity, gas ...) for 2 people in 85m2 flat",Dinar 306,Dinar,306,0.389031,119.04
+17,KUWAIT,Housing,Monthly rent for a 45 m2 (480 sqft) furnished studio in expensive area,Dinar 399,Dinar,399,0.389031,155.22
+18,KUWAIT,Housing,Monthly rent for a 45 m2 (480 sqft) furnished studio in normal area,Dinar 344,Dinar,344,0.389031,133.83
+19,KUWAIT,Housing,"Utilities 1 month (heating, electricity, gas ...) for 1 person in 45 m2 (480 sqft) studio",Dinar 284,Dinar,284,0.389031,110.48
+20,KUWAIT,Housing,Internet 8 mbps (1 month),Dinar 10,Dinar,10,0.389031,3.89
+21,KUWAIT,Housing,40” flat screen tv,Dinar 82,Dinar,82,0.389031,31.90
+22,KUWAIT,Housing,"Microwave 800/900 watt (bosch, panasonic, lg, sharp, or equivalent brands)",Dinar 24,Dinar,24,0.389031,9.34
+23,KUWAIT,Housing,Laundry detergent (3 l. ~ 100 oz.),Dinar 3.128,Dinar,3.128,0.389031,1.22
+24,KUWAIT,Housing,Hourly rate for cleaning help,Dinar 2.897,Dinar,2.897,0.389031,1.13
+27,KUWAIT,Clothes,1 pair of jeans (levis 501 or similar),Dinar 20,Dinar,20,0.389031,7.78
+28,KUWAIT,Clothes,"1 summer dress in a high street store (zara, h&m or similar retailers)",Dinar 23,Dinar,23,0.389031,8.95
+29,KUWAIT,Clothes,"1 pair of sport shoes (nike, adidas, or equivalent brands)",Dinar 29,Dinar,29,0.389031,11.28
+30,KUWAIT,Clothes,1 pair of men’s leather business shoes,Dinar 28,Dinar,28,0.389031,10.89
+32,KUWAIT,Transportation,"Volkswagen golf 1.4 tsi 150 cv (or equivalent), with no extras, new","Dinar 12,421",Dinar,"12,421",0.389031,4832.15
+33,KUWAIT,Transportation,1 liter (1/4 gallon) of gas,Dinar 0.116,Dinar,0.116,0.389031,0.05
+34,KUWAIT,Transportation,Monthly ticket public transport,Dinar 15,Dinar,15,0.389031,5.84
+36,KUWAIT,Personal Care,"Cold medicine for 6 days (tylenol, frenadol, coldrex, or equivalent brands)",Dinar 1.873,Dinar,1.873,0.389031,0.73
+37,KUWAIT,Personal Care,1 box of antibiotics (12 doses),Dinar 4.032,Dinar,4.032,0.389031,1.57
+38,KUWAIT,Personal Care,Short visit to private doctor (15 minutes),Dinar 29,Dinar,29,0.389031,11.28
+39,KUWAIT,Personal Care,"1 box of 32 tampons (tampax, ob, ...)",Dinar 2.011,Dinar,2.011,0.389031,0.78
+40,KUWAIT,Personal Care,"Deodorant, roll-on (50ml ~ 1.5 oz.)",Dinar 2.742,Dinar,2.742,0.389031,1.07
+41,KUWAIT,Personal Care,Hair shampoo 2-in-1 (400 ml ~ 12 oz.),Dinar 2.532,Dinar,2.532,0.389031,0.99
+42,KUWAIT,Personal Care,4 rolls of toilet paper,Dinar 0.607,Dinar,0.607,0.389031,0.24
+43,KUWAIT,Personal Care,Tube of toothpaste,Dinar 0.520,Dinar,0.52,0.389031,0.20
+44,KUWAIT,Personal Care,Standard men's haircut in expat area of the city,Dinar 4.735,Dinar,4.735,0.389031,1.84
+46,KUWAIT,Entertainment,Basic dinner out for two in neighborhood pub,Dinar 18,Dinar,18,0.389031,7.00
+47,KUWAIT,Entertainment,2 tickets to the movies,Dinar 7,Dinar,7,0.389031,2.72
+48,KUWAIT,Entertainment,2 tickets to the theater (best available seats),Dinar 20,Dinar,20,0.389031,7.78
+49,KUWAIT,Entertainment,"Dinner for two at an italian restaurant in the expat area including appetisers, main course, wine and dessert",Dinar 31,Dinar,31,0.389031,12.06
+50,KUWAIT,Entertainment,1 cocktail drink in downtown club,-,Dinar,,0.389031,0.00
+51,KUWAIT,Entertainment,Cappuccino in expat area of the city,Dinar 1.886,Dinar,1.886,0.389031,0.73
+52,KUWAIT,Entertainment,1 beer in neighbourhood pub (500ml or 1pt.) ,-,Dinar,,0.389031,0.00
+53,KUWAIT,Entertainment,Ipad wi-fi 128gb,Dinar 135,Dinar,135,0.389031,52.52
+54,KUWAIT,Entertainment,1 min. of prepaid mobile tariff (no discounts or plans),Dinar 0.041,Dinar,0.041,0.389031,0.02
+55,KUWAIT,Entertainment,1 month of gym membership in business district,Dinar 19,Dinar,19,0.389031,7.39
+56,KUWAIT,Entertainment,1 package of marlboro cigarettes,Dinar 5.817,Dinar,5.817,0.389031,2.26
